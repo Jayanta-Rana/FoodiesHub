@@ -38,7 +38,7 @@ body {
 
     /* Hero Section */
     .hero {
-      background: url("/images/background-image.jpg");
+      background: url("background-image.jpg");
       background-repeat: no-repeat;
       background-size: cover;
       height: 300px;
@@ -128,3 +128,4 @@ body {
     #name {
         color: rgb(0, 229, 255);
     }
+
